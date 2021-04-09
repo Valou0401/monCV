@@ -1,2 +1,1 @@
 # monCV
-Embauchez-moi svp
